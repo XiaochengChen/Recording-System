@@ -1,2 +1,2 @@
 # Recording-System
-A Java project
+A Java project I created from September, 2016 to December, 2016
